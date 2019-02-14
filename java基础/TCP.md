@@ -45,7 +45,7 @@
 三次握手过程：  
 ![三次握手](https://github.com/Linhital/Knowledge/blob/master/pic/connect.jpg)  
 四次挥手过程：  
-![四次挥手](https://github.com/Linhital/Knowledge/blob/master/pic/disconnect.jpg)  
+![四次挥手](https://github.com/Linhital/Knowledge/blob/master/pic/cut.jpg)  
 
 为什么需要三次握手？  
 当两次握手建立连接时，请求因为网络延时的原因重新发起时，该连接会建立两次，三次握手就会建立一次连接。  
